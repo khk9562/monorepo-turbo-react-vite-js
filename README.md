@@ -102,6 +102,3 @@ npm run dev --workspace=project1
 npm run dev --workspace=project2
 ```
 
-이 설정에서는 TypeScript를 사용하지 않았지만, 필요하다면 나중에 쉽게 추가할 수 있습니다.
-
-추가 설명이나 다른 부분에 대해 더 자세히 알고 싶으신 점이 있으면 말씀해 주세요.
